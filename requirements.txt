@@ -1,0 +1,13 @@
+# --- UI ---
+streamlit>=1.50.0
+
+# --- Datos ---
+pandas>=2.0.0
+supabase>=2.0.0
+
+# --- Entorno ---
+python-dotenv>=1.0.0
+
+# --- Importación de notas (Word por COM, PDF) ---
+pywin32>=306
+pdfplumber>=0.11.0
